@@ -1,0 +1,99 @@
+body {
+  background-color: ghostwhite;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.6em;
+  margin: 20px;
+  background-image: url("../images/samnivesha11.jpg");
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: green;
+}
+
+.lists {
+  background-color: ghostwhite;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  word-spacing: 10px;
+  border-radius: 5px;
+}
+
+.lists ul {
+  text-align: right;
+  list-style: none;
+}
+
+.lists li {
+  display: inline;
+  padding: 10px;
+}
+
+.signin {
+  background-color: lime;
+  padding: 5px solid lime;
+  border-radius: 0.2em;
+  border: 0.5px 0px;
+}
+
+.box-1 {
+  text-align: center;
+}
+
+.box-1 h3 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(167, 167, 167);
+}
+
+.box-1 h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+  line-height: 10px;
+  color: lightblue;
+  font-size: 40px;
+  text-transform: uppercase;
+  padding: 10px 0px;
+}
+
+.box-1 img {
+  max-width: 80%;
+}
+
+.box-2 {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.para1 {
+  padding-top: 10px;
+  font-size: 200%;
+  font-weight: bolder;
+  color: beige;
+  text-decoration: underline;
+}
+.para2 {
+  font-size: 30px;
+  font-weight: bold;
+  color: lightsteelblue;
+}
+
+.box-3 {
+  text-align: center;
+  color: black;
+  background-color: azure;
+  border: 5px solid darkorchid;
+  border-radius: 5px;
+  font-size: 100%;
+  text-transform: uppercase;
+}
